@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="114px" height="104px" viewBox="0 0 114 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>178D788D-EED6-40D2-A1DB-6FA33C246AA4</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="70.5 35.5 76.5 35.5 76.5 82 70.5 82"></polygon>
+        <polygon id="path-2" points="9.74458479e-16 25.0315801 50 2.39977515e-16 100 25.0315801 50 50.0631601"></polygon>
+        <polygon id="path-3" points="9.74458479e-16 25.0315801 50 2.39977515e-16 100 25.0315801 50 50.0631601"></polygon>
+        <rect id="path-4" x="0" y="0.884100014" width="22.1025003" height="68.9598011"></rect>
+        <rect id="path-5" x="0" y="0" width="22.1025003" height="45.0891007"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-VideoSharks-HD-28.09.2018" transform="translate(-518.000000, -10013.000000)">
+            <g id="Group-12" transform="translate(525.000000, 10017.000000)">
+                <path d="M17,33.1878529 L82,33.1878529 L82,60.0953204 L82,60.0953204 C61.5267766,70.2654606 37.4732234,70.2654606 17,60.0953204 L17,33.1878529 Z" id="Rectangle-12" stroke="#FF9714" stroke-width="6" fill="#F8F9FC"></path>
+                <g id="Line-8" fill-rule="nonzero">
+                    <use fill="#FF9714" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#F8F9FC" stroke-width="3" d="M69,34 L78,34 L78,83.5 L69,83.5 L69,34 Z"></path>
+                </g>
+                <g id="Rectangle-11-Copy">
+                    <use fill="#F8F9FC" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#F8F9FC" stroke-width="3" d="M-3.35071714,25.0315801 L50,-1.67747489 L103.350717,25.0315801 L50,51.740635 L-3.35071714,25.0315801 Z"></path>
+                </g>
+                <g id="Rectangle-11-Copy-3">
+                    <use fill="#F8F9FC" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#FF9714" stroke-width="6" d="M6.70143429,25.0315801 L50,46.7082103 L93.2985657,25.0315801 L50,3.35494978 L6.70143429,25.0315801 Z"></path>
+                </g>
+                <path d="M69.0407653,74.3793977 L73.0582816,68 L77.0757979,74.3793977 C80.767442,80.2413444 80.767442,87.7016642 77.0757979,93.5636109 L73.0582816,99.9430086 L69.0407653,93.5636109 C65.3491212,87.7016642 65.3491212,80.2413444 69.0407653,74.3793977 Z" id="Rectangle-11" fill="#FF9714"></path>
+                <g id="Group-13" transform="translate(32.280510, 64.440361) rotate(-43.000000) translate(-32.280510, -64.440361) translate(20.780510, 29.440361)">
+                    <g id="Rectangle-3">
+                        <use fill="#F8F9FC" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <rect stroke="#FF9714" stroke-width="6" x="3" y="3.88410001" width="16.1025003" height="62.9598011"></rect>
+                    </g>
+                    <g id="Rectangle-3-Copy-2">
+                        <use fill="#F8F9FC" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <rect stroke="#FF9714" stroke-width="6" x="3" y="3" width="16.1025003" height="39.0891007"></rect>
+                    </g>
+                    <rect id="Rectangle-3-Copy" stroke="#FF9714" stroke-width="6" x="3" y="3" width="16.1025003" height="15.2184003"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

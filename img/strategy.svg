@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="100px" viewBox="0 0 102 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>84100F4C-8D2B-4C21-B4AA-D420C0E92581</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="73.0184497 29.8974701 83.6254009 29.8974701 83.6254009 81.0036894 77.8907668 88.2271966 73.0184497 81.0036894"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-VideoSharks-HD-28.09.2018" transform="translate(-270.000000, -1515.000000)">
+            <g id="Group-6" transform="translate(270.000000, 1515.000000)">
+                <rect id="Rectangle-6-Copy-4" stroke="#FF9714" stroke-width="6" x="3" y="3" width="69" height="94" rx="2"></rect>
+                <path d="M16.5,21.5 L58.6900462,21.5" id="Line-7" stroke="#FF9714" stroke-width="6" stroke-linecap="square"></path>
+                <path d="M16.5,33.5 L58.6900462,33.5" id="Line-7-Copy" stroke="#FF9714" stroke-width="6" stroke-linecap="square"></path>
+                <path d="M16.5,45.5 L58.6900462,45.5" id="Line-7-Copy-2" stroke="#FF9714" stroke-width="6" stroke-linecap="square"></path>
+                <path d="M16.5,58.5 L58.6900462,58.5" id="Line-7-Copy-3" stroke="#FF9714" stroke-width="6" stroke-linecap="square"></path>
+                <path d="M16.5,70.5 L58.6900462,70.5" id="Line-7-Copy-4" stroke="#FF9714" stroke-width="6" stroke-linecap="square"></path>
+                <g id="Rectangle-8" transform="translate(78.321925, 59.062333) rotate(-326.000000) translate(-78.321925, -59.062333) ">
+                    <use fill="#FF9714" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#F8F9FC" stroke-width="2" d="M72.0184497,28.8974701 L84.6254009,28.8974701 L84.6254009,81.3523719 L77.8251328,89.9181818 L72.0184497,81.3094201 L72.0184497,28.8974701 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

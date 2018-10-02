@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="201px" viewBox="0 0 201 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>CF957AD8-181C-414C-BECC-6F1EEB5381BE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="61.5" cy="61.5" r="61.5"></circle>
+        <filter x="-49.6%" y="-43.1%" width="199.2%" height="199.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="8" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.849944986   0 0 0 0 0.874388818   0 0 0 0 0.863077045  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-VideoSharks-HD-28.09.2018" transform="translate(-458.000000, -7106.000000)">
+            <g id="Group-35" transform="translate(293.000000, 7137.000000)">
+                <g id="Group-20" transform="translate(204.000000, 0.000000)">
+                    <g id="Oval-2-Copy-9">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F8F9FC" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <circle stroke="#FF9714" stroke-width="6" cx="61.5" cy="61.5" r="64.5"></circle>
+                    </g>
+                    <g id="Group-2" transform="translate(27.000000, 22.000000)" stroke="#FF9714" stroke-width="6">
+                        <polygon id="Path-7" points="0 38.3255814 34.4995807 80 68.9991613 38.3255814 58.9889487 20.4651163 9.03063792 20.4651163"></polygon>
+                        <path d="M3.99801596,38.6046512 L67.0019084,38.6046512" id="Line-12" stroke-linecap="square"></path>
+                        <polygon id="Path-9" points="35 22.4496124 19 38.3255814 35 76.0310078 50 38.3255814"></polygon>
+                        <path d="M34.5,0.912520335 L34.5,7.02826524" id="Line-13" stroke-linecap="round"></path>
+                        <path d="M49.5806889,5.58139535 L46,10.7104906" id="Line-13-Copy" stroke-linecap="round"></path>
+                        <path d="M22.5806889,5.58139535 L19,10.7104906" id="Line-13-Copy-2" stroke-linecap="round" transform="translate(20.790344, 8.145943) scale(-1, 1) translate(-20.790344, -8.145943) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

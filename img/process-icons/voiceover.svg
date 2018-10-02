@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="201px" viewBox="0 0 201 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>47B30346-9F66-4ECB-9B73-399AFFFCB129</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="61.5" cy="61.5" r="61.5"></circle>
+        <filter x="-49.6%" y="-43.1%" width="199.2%" height="199.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="8" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.849944986   0 0 0 0 0.874388818   0 0 0 0 0.863077045  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-VideoSharks-HD-28.09.2018" transform="translate(-784.000000, -7762.000000)">
+            <g id="Group-35" transform="translate(293.000000, 7137.000000)">
+                <g id="Group-28" transform="translate(530.000000, 656.000000)">
+                    <g id="Oval-2-Copy-8">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F8F9FC" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <circle stroke="#FF9714" stroke-width="6" cx="61.5" cy="61.5" r="64.5"></circle>
+                    </g>
+                    <g id="Group-26" transform="translate(23.000000, 23.000000)" stroke="#FF9714" stroke-width="6">
+                        <path d="M19.0790708,27.179929 L21.136868,69.0648508 C21.2415277,71.1951206 22.9992101,72.8685684 25.1320492,72.8685684 L28.7186429,72.8685684 C30.8514821,72.8685684 32.6091645,71.1951206 32.7138242,69.0648508 L34.7716213,27.179929 L19.0790708,27.179929 Z" id="Rectangle-18" transform="translate(26.925346, 50.024249) rotate(-315.000000) translate(-26.925346, -50.024249) "></path>
+                        <circle id="Oval-9" fill="#F8F9FC" cx="50.746988" cy="27.253012" r="13.1566265"></circle>
+                        <path d="M9.86746988,67.1927711 L4.22891566,72.8313253" id="Line-15" stroke-linecap="round"></path>
+                        <path d="M50.746988,-4.54747351e-13 C35.695565,-4.54747351e-13 23.4939759,12.2015891 23.4939759,27.253012" id="Oval-10" stroke-linecap="round"></path>
+                        <path d="M77.7698975,27.8706007 C62.7184746,27.8706007 50.5168855,40.0721898 50.5168855,55.1236128" id="Oval-10-Copy" stroke-linecap="round" transform="translate(64.143391, 41.497107) rotate(-180.000000) translate(-64.143391, -41.497107) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

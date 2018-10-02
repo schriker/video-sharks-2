@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="201px" viewBox="0 0 201 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>0A57B146-5A89-4102-9C95-5FE5E0C1F4FF</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="61.5" cy="61.5" r="61.5"></circle>
+        <filter x="-49.6%" y="-43.1%" width="199.2%" height="199.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="8" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.849944986   0 0 0 0 0.874388818   0 0 0 0 0.863077045  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-VideoSharks-HD-28.09.2018" transform="translate(-281.000000, -7323.000000)">
+            <g id="Group-35" transform="translate(293.000000, 7137.000000)">
+                <g id="Group-22" transform="translate(27.000000, 217.000000)">
+                    <g id="Oval-2-Copy-3">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F8F9FC" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <circle stroke="#FF9714" stroke-width="6" cx="61.5" cy="61.5" r="64.5"></circle>
+                    </g>
+                    <g id="Group-21" transform="translate(61.500000, 61.500000) rotate(-70.000000) translate(-61.500000, -61.500000) translate(24.000000, 24.000000)" stroke="#FF9714">
+                        <path d="M21.5,4.5 L34,29" id="Line-14" stroke-width="6" stroke-linecap="square"></path>
+                        <path d="M42.8427706,47.7934349 L53,69" id="Line-14-Copy-3" stroke-width="6" stroke-linecap="square"></path>
+                        <path d="M6,21 L28,33" id="Line-14-Copy" stroke-width="6" stroke-linecap="square"></path>
+                        <path d="M46,41 L68,53" id="Line-14-Copy-2" stroke-width="6" stroke-linecap="square"></path>
+                        <circle id="Oval-7-Copy-2" stroke-width="8" cx="38" cy="38" r="9"></circle>
+                        <circle id="Oval-7-Copy" stroke-width="6" cx="37.5" cy="37.5" r="37.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

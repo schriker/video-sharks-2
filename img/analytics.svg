@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>C5AE3915-5C1C-48DE-9530-73652EBA23BB</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="60.1941748" y="57" width="17.4757282" height="43" rx="2"></rect>
+        <rect id="path-2" x="38.8349515" y="49" width="17.4757282" height="51" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-VideoSharks-HD-28.09.2018" transform="translate(-1070.000000, -1515.000000)">
+            <g id="Group-9" transform="translate(1070.000000, 1515.000000)">
+                <rect id="Rectangle-10" stroke="#FF9714" stroke-width="6" x="84.5533981" y="33" width="11.4757282" height="64" rx="2"></rect>
+                <g id="Rectangle-10-Copy">
+                    <use fill="#FF9714" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#FF9714" stroke-width="6" x="63.1941748" y="60" width="11.4757282" height="37" rx="2"></rect>
+                </g>
+                <g id="Rectangle-10-Copy-2">
+                    <use fill="#FF9714" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#FF9714" stroke-width="6" x="41.8349515" y="52" width="11.4757282" height="45" rx="2"></rect>
+                </g>
+                <rect id="Rectangle-10-Copy-3" stroke="#FF9714" stroke-width="6" x="20.4757282" y="79" width="11.4757282" height="18" rx="2"></rect>
+                <polygon id="Path-2" fill="#FF9714" fill-rule="nonzero" points="5.09661511 85.9848649 0.728627606 82.0151351 45.8388001 29.356527 65.1874091 38.3246073 90.2912621 7 83.4951456 0.0908511356 100 0.0908511356 100 18 94.2459694 11.4737202 66.8514259 45.6753927 47.3650834 36.643473"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
