@@ -25,3 +25,55 @@ $(document).ready(function() {
         } 
     });
 });
+
+$(window).on('load', function() {
+
+    var mobileCarousels = [
+        $('.portfolio')
+    ],
+    owlOptions = {
+        loop: false,
+        margin: 10,
+        responsive: {
+            0: {
+                loop: true,
+                stagePadding: 40,
+                items: 1
+            }
+        }
+    };
+
+    if ( $(window).width() < 768 ) {
+        for(i=0; i < mobileCarousels.length; i++) {
+            var owlActive = mobileCarousels[i];
+            owlActive.owlCarousel(owlOptions);
+        }
+    } else {
+        for(i=0; i < mobileCarousels.length; i++) {
+            var owlActive = mobileCarousels[i];
+            owlActive.addClass('off');
+        }
+    }
+
+    $(window).resize(function() {
+        if ( $(window).width() < 768 ) {
+            if ( $('.owl-carousel').hasClass('off') ) {
+                for(i=0; i < mobileCarousels.length; i++) {
+                    var owlActive = mobileCarousels[i];
+                    owlActive.owlCarousel(owlOptions);
+                    owlActive.removeClass('off');
+                }
+            }
+        } else {
+            if ( !$('.owl-carousel').hasClass('off') ) {
+                for(i=0; i < mobileCarousels.length; i++) {
+                    var owlActive = mobileCarousels[i];
+                    owlActive.addClass('off').trigger('destroy.owl.carousel');
+                    owlActive.find('.owl-stage-outer').children(':eq(0)').unwrap();
+                }
+            }
+        }
+    });
+
+    $(".owl-item").addClass("col");
+});
